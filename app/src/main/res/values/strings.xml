@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Pop to the Shops</string>
+    <string name="shopping_item">Shopping item</string>
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+
+    <string name="empty_list_title">
+        Your shopping list is empty.
+    </string>
+
+    <string name="empty_list_message">
+        Add your first item to get started.
+    </string>
+
+    <string name="unknown_error">
+        Something went wrong.
+    </string>
+
+    <plurals name="item_count">
+        <item quantity="one">%1$d item</item>
+        <item quantity="other">%1$d items</item>
+    </plurals>
+
+</resources>
